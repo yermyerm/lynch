@@ -3,7 +3,7 @@ body {
   color: white;
   margin: auto;
   max-width: 1000px;
-  line-height: 1.5;
+  line-height: 2;
   font-family: "Noto Serif KR", serif;
 }
 img {
@@ -34,10 +34,12 @@ h3 {
   margin-top: 50px;
   margin-bottom: 0;
 }
-.sns i {
+.sns i,
+.sns img {
   font-size: 23px;
   line-height: 2.5;
-  margin: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
 }
 #active {
   color: white;
@@ -57,6 +59,7 @@ h3 {
 }
 #article {
   padding-left: 20px;
+  padding-right: 20px;
   text-align: center;
   margin-bottom: 200px;
 }
