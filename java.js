@@ -4,6 +4,8 @@ const ysk = document.querySelector("#ysk img");
 const asn = document.querySelector("#asn img");
 const akn = document.querySelector("#akn img");
 
+const lynch = [hzk, reo, ysk, asn, akn];
+
 function dontTouch() {
   alert("Don't touch");
 }
