@@ -9,6 +9,9 @@ body {
 img {
   margin-bottom: 15px;
 }
+img.profilePic {
+  width: 400px;
+}
 ul,
 h2 {
   line-height: 1.8;
